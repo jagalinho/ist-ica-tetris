@@ -1,0 +1,13 @@
+Relógio 1 - Período: 500
+Relógio 2 - Período: 300
+
+0 - Recomeçar Jogo
+1 - Mover para a Esquerda
+2 - Mover para a Direita
+3 - Queda Rápida
+5 - Rodar para a Esquerda
+6 - Rodar para a Direita
+7 - Mover para Baixo
+a - Evoca Monstro Manualmente
+c - Guardar Peça
+e - Pausar Jogo
